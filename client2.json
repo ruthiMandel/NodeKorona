@@ -1,0 +1,138 @@
+[
+    {
+        "clientFirstName": "moishi",
+         "clientLastName": "koren",
+         "addres": {
+           "city": "telaviv",
+           "street": "savdor",
+           "number": "78"
+         },
+         "dateOfBirth": "21/05/1920",
+         "phone": "0584598632",
+         "cellPhone": "03-5702395",
+         "vaccination": [
+           {
+             "dateGet": "12/08/2022",
+             "manufacturer": "dan zuker"
+           },
+           {
+             "dateGet": "22/09/2022",
+             "manufacturer": " dan zuker"
+           },
+           {
+             "dateGet": "",
+             "manufacturer": ""
+           },
+           {
+             "dateGet": "18/11/2022",
+             "manufacturer": "avigdor shulman"
+           }
+         ],
+               "OutComeDisease": "02/12/2020",
+         "recoveryDisease": "28/12/2020",
+         "img": "https://i.pinimg.com/236x/04/30/ff/0430ffbf325d0d8cbbe69d32d692680a.jpg",
+         "__v": 0
+       },
+       {
+        "clientFirstName": "zviki",
+         "clientLastName": "weis",
+         "addres": {
+           "city": "tel aviv",
+           "street": "hashlosha",
+           "number": "15"
+         },
+         "dateOfBirth": "21/05/1920",
+         "phone": "0568975862",
+         "cellPhone": "03-6789859",
+         "vaccination": [
+           {
+             "dateGet": "13/02/2022",
+             "manufacturer": "dan zuker"
+           },
+           {
+             "dateGet": "22/04/2022",
+             "manufacturer": " dan zuker"
+           },
+           {
+             "dateGet": "",
+             "manufacturer": ""
+           },
+           {
+             "dateGet": "18/106/2022",
+             "manufacturer": "avigdor shulman"
+           }
+         ],
+               "OutComeDisease": "02/12/2020",
+         "recoveryDisease": "28/12/2020",
+         "img": "https://i.pinimg.com/474x/85/19/ba/8519baeb88ee633b85b706e4b1aea2bd.jpg",
+         "__v": 0
+       },
+       {
+        "clientFirstName": "shalom",
+         "clientLastName": "kedem",
+         "addres": {
+           "city": "tel aviv",
+           "street": "halafta",
+           "number": "46"
+         },
+         "dateOfBirth": "21/05/1920",
+         "phone": "05896523698",
+         "cellPhone": "03-45655568",
+         "vaccination": [
+           {
+             "dateGet": "13/02/2022",
+             "manufacturer": "dan zuker"
+           },
+           {
+             "dateGet": "22/04/2022",
+             "manufacturer": " dan zuker"
+           },
+           {
+             "dateGet": "",
+             "manufacturer": ""
+           },
+           {
+             "dateGet": "18/106/2022",
+             "manufacturer": "avigdor shulman"
+           }
+         ],
+               "OutComeDisease": "02/12/2020",
+         "recoveryDisease": "28/12/2020",
+         "img": "https://i.pinimg.com/236x/bc/b8/e8/bcb8e86e920d162e4c26f07b82511841.jpg",
+         "__v": 0
+       },
+       {
+        "clientFirstName": "izik",
+         "clientLastName": "shmerler",
+         "addres": {
+           "city": "tel aviv",
+           "street": "haziwony",
+           "number": "3"
+         },
+         "dateOfBirth": "21/05/1920",
+         "phone": "0548965238",
+         "cellPhone": "03-6784545",
+         "vaccination": [
+           {
+             "dateGet": "13/02/2022",
+             "manufacturer": "dan zuker"
+           },
+           {
+             "dateGet": "22/04/2022",
+             "manufacturer": " dan zuker"
+           },
+           {
+             "dateGet": "",
+             "manufacturer": ""
+           },
+           {
+             "dateGet": "18/106/2022",
+             "manufacturer": "avigdor shulman"
+           }
+         ],
+               "OutComeDisease": "02/12/2020",
+         "recoveryDisease": "28/12/2020",
+         "img": "https://pickture.co.il/wp-content/uploads/2023/05/%D7%AA%D7%9E%D7%95%D7%A0%D7%94-%D7%A9%D7%9C-%D7%92%D7%91%D7%A8-11-768x768.jpg",
+         "__v": 0
+       }
+]
